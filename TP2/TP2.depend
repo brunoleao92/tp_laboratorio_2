@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1446667744 source:c:\users\alumno\desktop\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1568639757 source:c:\users\alumno\desktop\tp2\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1568644592 source:c:\users\alumno\desktop\tp2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"ArrayEmployees.h"
+
+1568639786 c:\users\alumno\desktop\tp2\utn.h
+
+1568644676 c:\users\alumno\desktop\tp2\arrayemployees.h
+
+1570207491 source:c:\users\lenovo\desktop\tp2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"ArrayEmployees.h"
+
+1569832713 c:\users\lenovo\desktop\tp2\utn.h
+
+1570207491 c:\users\lenovo\desktop\tp2\arrayemployees.h
+
+1570199398 source:c:\users\lenovo\desktop\tp2\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1570209009 source:c:\users\lenovo\desktop\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"ArrayEmployees.h"
+
